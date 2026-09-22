@@ -9,7 +9,7 @@ namespace Repetetition
             Console.WriteLine("Hello, World!");
             SayHello(name: "Kristin");
             
-            int result = Add(a: 3, b: 3); //kallar på metod och returnerar resultatet
+            int result = Add(a: 3, b: 8); //kallar på metod och returnerar resultatet
             Math.Max(1548, 58445);
             Console.WriteLine(result); //statiska metoder är gula t.ex WriteLine, Max, behöver parametrar
 
